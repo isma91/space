@@ -1,2 +1,2 @@
 # space
-A space game
+A space game, left click to shot, right for special shot
